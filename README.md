@@ -14,4 +14,4 @@
 
 ## Авторство и ссылки
 * Оригинальный перевод (японская версия): **[Innocence translations](https://t.me/innocence_translations)**
-* Адаптация под Steam-версию: **Fudo**
+* Адаптация под Steam-версию: **Arlqe**
